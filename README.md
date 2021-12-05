@@ -1,2 +1,4 @@
-# graphql-springboot
-Creating and consuming graphql using springboot
+
+
+# graphql-spring-boot
+Creating and consuming graphql using spring-boot.
